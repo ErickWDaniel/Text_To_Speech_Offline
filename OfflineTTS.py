@@ -19,7 +19,7 @@ uwanja = entry(root, textvariable=ujumbe, width=50)  # uwanja is swahili word me
 uwanja.place(x=50, y=40)
 
 
-# functions to perfor tasks
+# functions to perform tasks
 
 def Twendekazi():  # twende kaazi means lets go/lets do it hahahah
     kazi = pyttsx3.init()
